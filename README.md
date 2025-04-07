@@ -1,7 +1,7 @@
 # Pesquisa-TextoIA-DIO-Avanade
 Laboratório Prático sobre recursos da IA Azure do Bootcamp DIO Avanade
 
-Projeto prático de laborátorio para o Bootcamp Avanade da DIO, fiz uma busca de algunss dados conforme solicitado, utilizando o Search IA do Azure. 
+Projeto prático de laborátorio para o Bootcamp Avanade da DIO, fiz uma busca de alguns dados conforme solicitado, utilizando o Search IA do Azure. 
 
 Para iniciar, seguimos o mesmo raciocínio do Language Studio, fazemos login com uma conta com assinatura Azure vigente, mas dessa seguimos para a parte de Search IA. Após criado seu serviço de pesquisa, terá acesso à pagina inicial que é essa:
 
